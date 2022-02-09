@@ -1,6 +1,6 @@
 /*
 Print Pattern Using Input of Row
-            * njo00
+            * 
         *   *   *
     *   *   *   *   *
         *   *   *
